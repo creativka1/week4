@@ -1,4 +1,5 @@
 # Week 4 — PID Line Following Competition
+🎥 VIDEO: https://youtube.com/shorts/pKnfklFRIfY?feature=share
 
 PID/PD-based line following for a physical TRIK robot using two reflectance sensors, with sensor balancing and a special recovery mode for sharp 180° corners.
 
@@ -72,4 +73,3 @@ The final version follows the line reliably on straight sections and normal curv
 
 For sharp 180° turns, it automatically switches to a slower and stronger turning mode, helping the robot stay on the line instead of driving past the corner.
 
-🎥 Demo: https://youtube.com/shorts/pKnfklFRIfY?feature=share
